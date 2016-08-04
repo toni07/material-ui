@@ -15,7 +15,7 @@ that you can use to tag your questions.
 [![Dependencies](https://img.shields.io/david/callemall/material-ui.svg?style=flat-square)](https://david-dm.org/callemall/material-ui)
 [![DevDependencies](https://img.shields.io/david/dev/callemall/material-ui.svg?style=flat-square)](https://david-dm.org/callemall/material-ui#info=devDependencies&view=list)
 
-Material-UI is a set of [React](http://facebook.github.io/react/) components that implement
+Materiot-UI is a set of [Riot](http://riotjs.com/) components that implement
 [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 specification.
 
